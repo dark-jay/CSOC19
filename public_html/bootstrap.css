@@ -1,0 +1,89 @@
+
+.content{
+    min-height: 600px;
+}
+
+.banner-image{
+    padding-bottom: 50px;
+margin-bottom: 20px;
+text-align: center;
+color: #f8f8f8;
+background: url(img/intro.jpg) no-repeat center;
+background-size: cover;
+}
+
+.inner-banner-image{
+    padding-top: 12%;
+width:80%;
+margin:auto;
+}
+.banner-content{
+    position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+overflow:hidden;
+margin-bottom: 60px;
+margin-left: 200px;
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+}
+
+footer{
+    padding: 10px 0;
+    background-color: #000;
+    color:#fff;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+  
+    
+}
+
+
+.panel{
+    margin-top: 100px;
+}
+
+.signup{
+    margin-top: 100px;
+}
+
+jumbotron{
+    margin-top: 100px;
+    padding: 60px;
+    background-color: #999;
+}
+
+.items{
+    width:20%;
+display: block;
+padding: 4px;
+margin-bottom: 20px;
+line-height: 1.42857143;
+background-color: #fff;
+border: 1px solid #ddd;
+border-radius: 4px;
+float:left;
+margin-left:8%;
+}
+
+.thumbnail{
+    display: block;
+max-width: 100%;
+height: auto;
+}
+
+.caption{
+ color:#000;
+padding:0px 10px 10px 10px;
+font-weight: bold;
+text-align: center;
+}
+
+.content-product{
+    margin-bottom: 30px;
+}
+
+.content-cart{
+    margin-top: 60px;
+}
